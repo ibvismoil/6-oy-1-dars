@@ -1,17 +1,15 @@
 *{
-  text-decoration: none;
   margin: 0 auto;
   padding: 0 10px;
+  text-decoration: none;
 }
 body{
   background-color: #131313;
   font-family: Arial, sans-serif;   
   background-image: url(./geo-iphone12promax-iphone12pro-pacific-blue-2up-1-385f4671\ 1.png);
-  background-repeat: no-repeat; /* Отключаем повторение */
-  /* background-size: cover; Растягиваем на всю область */
-  /* background-position: center; */
-  background-position: right center; /* Смещаем вправо */
-  background-size: 700px 800px; /* Ширина 500px, высота 300px */
+  background-repeat: no-repeat; 
+  background-position: right center; 
+  background-size: 700px 800px; 
 
 }
 header {
